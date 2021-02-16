@@ -1,0 +1,19 @@
+Processed Trades: 12
+
+Shares Bought: 600
+Shares Sold: 800
+Total Volume: 1400
+Notional Bought: $14642.00
+Notional Sold: $21062.00
+
+Per Exchange Volumes:
+NASDAQ Bought: 600
+NASDAQ Sold: 600
+NYSE Bought: 0
+NYSE Sold: 200
+
+Average Trade Size: 116.67
+Median Trade Size: 100
+
+10 Most Active Symbols: CX(700),AIG(500),AES(200)
+
