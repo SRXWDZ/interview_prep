@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f233be6-7c35-40c1-8806-641b826ba2b0" name="Default Changelist" comment="add interview prep">
+      <change afterPath="$PROJECT_DIR$/.idea/SRXWDZ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_UPDATE_ALL_ROOTS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/interview_prep" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1ofZvt7eJxr1hFfCxVmsG1o0vSI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f233be6-7c35-40c1-8806-641b826ba2b0" name="Default Changelist" comment="" />
+      <created>1613679838661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613679838661</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1613679988809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613679988809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1613960918674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613960918674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testc 1 12213123">
+      <created>1613961148138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613961148138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add interview prep">
+      <created>1613961309722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613961309722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="testc 1 12213123" />
+    <MESSAGE value="add interview prep" />
+    <option name="LAST_COMMIT_MESSAGE" value="add interview prep" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613700666562">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613700666562" />
+    <state width="1001" height="271" key="GridCell.Tab.0.bottom" timestamp="1613713380347">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1001" height="271" key="GridCell.Tab.0.bottom/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613713380347" />
+    <state width="1001" height="271" key="GridCell.Tab.0.center" timestamp="1613713380347">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1001" height="271" key="GridCell.Tab.0.center/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613713380347" />
+    <state width="1001" height="271" key="GridCell.Tab.0.left" timestamp="1613713380347">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1001" height="271" key="GridCell.Tab.0.left/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613713380347" />
+    <state width="1001" height="271" key="GridCell.Tab.0.right" timestamp="1613713380347">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1001" height="271" key="GridCell.Tab.0.right/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613713380347" />
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom" timestamp="1613700704751">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613700704751" />
+    <state width="2027" height="376" key="GridCell.Tab.1.center" timestamp="1613700704751">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.center/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613700704751" />
+    <state width="2027" height="376" key="GridCell.Tab.1.left" timestamp="1613700704751">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.left/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613700704751" />
+    <state width="2027" height="376" key="GridCell.Tab.1.right" timestamp="1613700704751">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.right/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613700704751" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1613961326349">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613961326349" />
+    <state x="834" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613961100317">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="834" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613961100317" />
+    <state x="748" y="345" width="551" height="422" key="git4idea.merge.GitPullDialog" timestamp="1613961064570">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="748" y="345" width="551" height="422" key="git4idea.merge.GitPullDialog/2560.196.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1613961064570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
